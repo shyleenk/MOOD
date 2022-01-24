@@ -16,3 +16,15 @@ What is Teachable Machine? Teachable Machine is a web-based tool that makes crea
 
 ### TensorFlow Lite
 TensorFlow Lite is Google's machine learning framework to deploy machine learning models on multiple devices and surfaces such as mobile (iOS and Android), desktops and other edge devices.
+
+# Research Questions
+To build a Machine Learning model that will help identify different modes based on various expression with an accuracy 80% and above.
+
+# Algorithms
+Convolutional Neural Network (CNN)
+
+# Contact
+For questions,clarification or corrections Contact me 
+
+# Licences
+MIT Lincence
